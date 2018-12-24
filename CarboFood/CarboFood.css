@@ -1,0 +1,104 @@
+body{
+    overflow-x:hidden ;
+}
+.navbar-brand img{
+    height: 3rem;
+    font-family: "Day Roman";
+    color: #505962;
+
+}
+navbar{
+    text-transform: uppercase;
+}
+.nav-item{
+    font-size: 20px;
+    padding-right: 5px;
+}
+.landing{
+    position:relative;
+    width: 100%;
+    height: 100vh;
+    display: table;
+    background: #E9ECEF;
+    z-index: -1;
+}
+.home-wrap{
+    clip:rect(0,auto,auto,0);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.home-inner{
+    background-image: url('pictures/3.jpg');
+    position: fixed;
+    display: table;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+}
+.icons{
+    width: 60px;
+}
+h3.heading{
+    text-align: center;
+    font-size: 1.9rem;
+    text-transform: uppercase;
+    margin-bottom: 1.9rem;
+    font-family: "Day Roman";
+
+}
+
+.center{
+    font-family:"Day Roman";
+    text-align: center;
+}
+img.portfolio{
+    width: 90%;
+    height: 300px;
+    border-radius: 20px ;
+    margin-bottom: 1rem;
+    cursor: pointer;
+
+}
+.no-padding .col-md-4{
+    padding: 0;
+}
+.footer img{
+    height: 3rem;
+}
+.footer .row{
+    background-color: #505962;
+    color:white;
+
+}
+.image1{
+    width: 30px;
+}
+.logo2{
+    width: 2rem;
+}
+
+
+.text_boom{
+    display: none;
+    border: 2px solid;
+    border-radius: 40px;
+    background-color: antiquewhite;
+    font-family: "Day Roman";
+    width: 90%;
+
+}
+#Fit{
+    color: yellow;
+}
+#Balance{
+    color: green;
+}
+#Power{
+    color: blueviolet;
+}

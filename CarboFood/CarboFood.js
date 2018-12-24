@@ -1,0 +1,95 @@
+$(document).ready(function(){
+    $("#q").click(function(){
+        $("#1").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#w").click(function(){
+        $("#2").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#e").click(function(){
+        $("#3").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#r").click(function(){
+        $("#4").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#t").click(function(){
+        $("#5").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#y").click(function(){
+        $("#6").fadeToggle();
+    });
+});
+
+
+$(document).ready(function(){
+    $("#u").click(function(){
+        $("#7").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#i").click(function(){
+        $("#8").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#o").click(function(){
+        $("#9").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#p").click(function(){
+        $("#10").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#a").click(function(){
+        $("#11").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#s").click(function(){
+        $("#12").fadeToggle();
+    });
+});
+
+
+
+$(document).ready(function(){
+    $("#d").click(function(){
+        $("#13").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#f").click(function(){
+        $("#14").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#g").click(function(){
+        $("#15").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#h").click(function(){
+        $("#16").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#j").click(function(){
+        $("#17").fadeToggle();
+    });
+});
+$(document).ready(function(){
+    $("#k").click(function(){
+        $("#18").fadeToggle();
+    });
+});
